@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the people who don't like me those are gay
 
+  this is my second day of github
+
 <!---
 Div-Divyansh/Div-Divyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
